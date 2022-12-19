@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cyberlert
 - 👀 I’m interested in cyber security
-- 🌱 I’m currently practising Reverse engineeering
+- 🌱 I’m currently practising Reverse engineeering, static code analysis and IDOR exploitations
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : cyberlert19@gmail.com
 
